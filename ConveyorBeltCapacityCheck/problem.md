@@ -1,19 +1,12 @@
 # Conveyor belt capacity check
 
 ## Problem
-:::{commons-figure} https://commons.wikimedia.org/wiki/File:Belt-conveyor-handling2.jpg
-:align: right
-:figwidth: 40%
-A conveyor belt
-:::
 You are going to help automation engineers in your company to determine whether a conveyor belt system can safely transport a collection of packages.
-
 The system can be supported by any number of motors. Every motor is able to carry  5.6 kg of package weight.
-
 Prompt the user for the number of motors by asking:
-<div width="50%">
+
 > How many motors are carrying the packages?
-</div>
+
 
 Then, prompt the user for the weight of packages:
 > How many kg of packages do we expect?
@@ -40,17 +33,13 @@ How many kg of packages do we expect? 20.4
 ```
 
 
-:::{activity}
-:label: conveyor-belt-capacity-check-flowchart
+
 Draw a flowchart for this problem.
 
 Steps:
 1. 3 min work individually
 2. 2 min compare your result with your partner
-:::
 
-:::{activity}
-:label: conveyor-belt-capacity-check-intro
 Create a project called `ConveyorBeltCapacityCheck` that solves this problem.
 
 First create a Git repository and put your flowchart from {ref}`conveyor-belt-capacity-check-flowchart`, because you will upload your project to a code forge and submit it later as an assignment.
@@ -62,4 +51,3 @@ Steps:
 2. 2 min discuss with your partner
 
 You will later continue this problem.
-:::
