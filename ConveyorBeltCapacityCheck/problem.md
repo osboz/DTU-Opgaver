@@ -7,7 +7,6 @@ Prompt the user for the number of motors by asking:
 
 > How many motors are carrying the packages?
 
-
 Then, prompt the user for the weight of packages:
 > How many kg of packages do we expect?
 
@@ -32,22 +31,5 @@ How many kg of packages do we expect? 20.4
 > No. The conveyor belt cannot carry the packages.
 ```
 
-
-
 Draw a flowchart for this problem.
-
-Steps:
-1. 3 min work individually
-2. 2 min compare your result with your partner
-
-Create a project called `ConveyorBeltCapacityCheck` that solves this problem.
-
-First create a Git repository and put your flowchart from {ref}`conveyor-belt-capacity-check-flowchart`, because you will upload your project to a code forge and submit it later as an assignment.
-
-Start sketching the program, but you are not expected to finish it. Rather answer the question: Which C# programming components can we use from our existing knowledge, what do we need to know?
-
-Steps:
-1. 10 min work individually
-2. 2 min discuss with your partner
-
-You will later continue this problem.
+[Flowchart](flowchart.png)
